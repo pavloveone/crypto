@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0;
+}
+body {
+    margin: 0 auto;
+}
+input[name='recevie'] {
+    display: none;
+}
+input[name='get'] {
+    display: none;
+}
